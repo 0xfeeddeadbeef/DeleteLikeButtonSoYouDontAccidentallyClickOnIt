@@ -1,4 +1,12 @@
 
+#top-level-buttons > ytd-toggle-button-renderer:nth-child(1) > a {
+    display: none !important;
+}
+
 #top-level-buttons > ytd-toggle-button-renderer.style-scope.ytd-menu-renderer.style-default-active.force-icon-button > a {
-    display: none !important
+    display: none !important;
+}
+
+ytd-toggle-button-renderer.style-scope:nth-child(1) > a:nth-child(1) {
+    display: none !important;
 }

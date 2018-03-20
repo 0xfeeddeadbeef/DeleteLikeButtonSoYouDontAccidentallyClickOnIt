@@ -1,6 +1,6 @@
 {
     "name": "PewDiePie-YouTube-DeleteLikeButton",
-    "version": "1.0.0.0",
+    "version": "1.0.0.2",
     "description": "Chrome addon to delete like button so you dont accidentally click on it",
     "homepage_url": "https://www.youtube.com/watch?v=KSddAqfUJ4A",
     "manifest_version": 2,
